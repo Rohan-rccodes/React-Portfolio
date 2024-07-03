@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Background Change on button Click 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This webpage features a button that changes the background color using HTML, CSS, and JavaScript. It demonstrates basic interactivity, allowing users to modify the page's appearance for a more personalized experience.",
+    url: "https://rohan-rccodes.github.io/bgcolor-changer/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ecommerce-Website-With-HTML-CSS-JavaScript",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.Multipage Ecommerce Website Project.Best Beginner Friendly web layout.",
+    url: "https://rohan-rccodes.github.io/Ecommerce-Website/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This resume, created with HTML and CSS, showcases Rohan's profile as a Frontend Web Developer. It includes sections for social media, skills, education, experience, and extracurricular activities, all presented in a clean, organized design",
+    url: "https://rohan-rccodes.github.io/MyResume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image Carousel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Interactive image carousel created with HTML, CSS, and JavaScript. Users can navigate through images using the left and right arrows or by clicking on the dots at the bottom of the carousel. This project demonstrates how to create a dynamic, engaging user experience with web technologies.",
+    url: "https://rohan-rccodes.github.io/carosal/",
   },
 ];
 
